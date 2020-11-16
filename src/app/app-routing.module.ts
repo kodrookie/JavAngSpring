@@ -3,6 +3,8 @@ import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [];
 
+/** HALLOOOO*/
+
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
