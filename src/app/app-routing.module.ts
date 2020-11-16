@@ -2,7 +2,8 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [];
-/*TESTING*/ 
+
+/** HALLOOOO*/
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
